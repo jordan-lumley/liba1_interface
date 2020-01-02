@@ -1,6 +1,6 @@
 # liba1_interface
 
-...
+```
 // import the lib
 const lib = require('./lib');
 
@@ -27,5 +27,4 @@ try {
 catch (err) {
     console.log(err);
 }
-
-...
+```
